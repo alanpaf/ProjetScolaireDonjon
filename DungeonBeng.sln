@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonBeng", "Assembly-CSharp.csproj", "{FB227147-DCFD-4102-759C-2BEBA24DA10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonBeng", "Assembly-CSharp-firstpass.csproj", "{2388121B-FE18-7B43-2BFB-6175FC2637EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonBeng", "Assembly-CSharp-Editor-firstpass.csproj", "{67DD14D3-F9BA-D7DB-34D4-77EFABD5406C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB227147-DCFD-4102-759C-2BEBA24DA10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB227147-DCFD-4102-759C-2BEBA24DA10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB227147-DCFD-4102-759C-2BEBA24DA10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB227147-DCFD-4102-759C-2BEBA24DA10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2388121B-FE18-7B43-2BFB-6175FC2637EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2388121B-FE18-7B43-2BFB-6175FC2637EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2388121B-FE18-7B43-2BFB-6175FC2637EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2388121B-FE18-7B43-2BFB-6175FC2637EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DD14D3-F9BA-D7DB-34D4-77EFABD5406C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DD14D3-F9BA-D7DB-34D4-77EFABD5406C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DD14D3-F9BA-D7DB-34D4-77EFABD5406C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DD14D3-F9BA-D7DB-34D4-77EFABD5406C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

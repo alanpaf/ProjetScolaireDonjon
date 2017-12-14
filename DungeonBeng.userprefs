@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+    <Files>
+      <File FileName="Assets/Pop.cs" Line="14" Column="34" />
+      <File FileName="Assets/Gobelin.cs" Line="19" Column="28" />
+      <File FileName="Assets/Vache.cs" Line="22" Column="20" />
+      <File FileName="Assets/Player.cs" Line="31" Column="2" />
+      <File FileName="Assets/PorteSecret.cs" Line="23" Column="28" />
+      <File FileName="Assets/SalleRBR.cs" Line="24" Column="52" />
+      <File FileName="Assets/TimerScript.cs" Line="20" Column="73" />
+      <File FileName="Assets/ZoneMort.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
